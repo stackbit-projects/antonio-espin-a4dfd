@@ -30,7 +30,8 @@ sections:
       - title: Código legible
         content: >
           Es importante escribir un código legible, para que el equipo de
-          trabajo pueda comprender en un futuro el proyecto de la empresa.
+          trabajo, o el mismo desarrollador que lo escribió pueda comprender en
+          un futuro el trabajo realizado.
       - title: Service Title
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
