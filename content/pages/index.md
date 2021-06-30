@@ -28,10 +28,9 @@ sections:
     is_numbered: true
     grid_items:
       - title: Código legible
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Es importante el escribir un código legible, para que el equipo de
+          trabajo pueda comprender en un futuro el proyecto de la empresa.
       - title: Service Title
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
