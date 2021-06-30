@@ -29,7 +29,7 @@ sections:
     grid_items:
       - title: Código legible
         content: >
-          Es importante el escribir un código legible, para que el equipo de
+          Es importante escribir un código legible, para que el equipo de
           trabajo pueda comprender en un futuro el proyecto de la empresa.
       - title: Service Title
         content: >-
