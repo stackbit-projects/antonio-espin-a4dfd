@@ -27,7 +27,7 @@ sections:
     col_number: two
     is_numbered: true
     grid_items:
-      - title: Código legible
+      - title: Creación de paginas web
         content: >
           Es importante escribir un código legible, para que el equipo de
           trabajo, o el mismo desarrollador que lo escribió pueda comprender en
