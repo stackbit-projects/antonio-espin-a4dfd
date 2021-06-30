@@ -5,9 +5,9 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hola, Me llamo Antonio y soy desarrollador Frontend'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      Necesitas páginas o aplicaciones web rápidas y dinámicas. Resuelvo todos
+      tus problemas con profesionalismo.
     actions:
       - label: Let's talk
         url: /contact
