@@ -23,7 +23,7 @@ sections:
   - section_id: services
     type: section_grid
     title: Mis servicios
-    subtitle: An optional subtitle of the section
+    subtitle: Te ayudaré con los siguientes servicios
     col_number: two
     is_numbered: true
     grid_items:
