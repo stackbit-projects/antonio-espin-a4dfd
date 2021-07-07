@@ -1,6 +1,5 @@
 ---
 title: Animationland
-subtitle: Optional Project Subtitle
 date: '2019-04-30'
 thumb_image: /images/animationland.png
 thumb_image_alt: An orange on a blue background
