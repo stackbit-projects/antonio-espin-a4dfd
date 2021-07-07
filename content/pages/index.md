@@ -21,6 +21,13 @@ sections:
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    subtitle: lorem-ipsum
+    posts_number: 3
+    col_number: three
+    actions: []
+    type: section_posts
   - section_id: services
     type: section_grid
     title: Mis servicios
