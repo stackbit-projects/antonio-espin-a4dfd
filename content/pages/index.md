@@ -6,8 +6,8 @@ sections:
     type: section_hero
     title: 'Hola, Me llamo Antonio y soy desarrollador Frontend'
     content: >
-      Necesitas páginas o aplicaciones web rápidas y dinámicas. Resuelvo todos
-      tus problemas con profesionalismo.
+      Tienes problemas al usar tu página o aplicación web. Necesitas que sean
+      mucho más rápidas y dinámicas. Yo los resuelvo con profesionalismo
     actions:
       - label: Let's talk
         url: /contact
