@@ -21,32 +21,6 @@ sections:
     projects_number: 5
     view_all_label: View All
     view_all_url: portfolio
-  - section_id: services
-    type: section_grid
-    title: Mis servicios
-    subtitle: Te ayudaré con los siguientes servicios
-    col_number: two
-    is_numbered: true
-    grid_items:
-      - title: Creación de paginas web
-        content: >
-          Es importante escribir un código legible, para que el equipo de
-          trabajo, o el mismo desarrollador que lo escribió pueda comprender en
-          un futuro el trabajo realizado.
-      - title: Service Title
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus.
-      - title: Service Title
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin.
-      - title: Service title
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
   - section_id: latest-posts
     type: section_posts
     title: Latest from the Blog
