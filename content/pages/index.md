@@ -7,8 +7,8 @@ sections:
     title: 'Hola, Me llamo Antonio y soy desarrollador Frontend'
     content: >
       Tienes problemas al usar tu página o aplicación web?. Necesitas que sean
-      mucho más rápidas y dinámicas?. Yo te ayudaré resolviendolos con
-      profesionalismo.
+      mucho más rápidas y dinámicas?. Tienes en mente un diseño web?. Yo te
+      ayudaré resolviéndolos con profesionalismo.
     actions:
       - label: Let's talk
         url: /contact
