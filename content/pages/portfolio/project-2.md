@@ -4,7 +4,7 @@ subtitle: Optional Project Subtitle
 date: '2019-04-30'
 thumb_image: /images/animationland.png
 thumb_image_alt: An orange on a blue background
-image: images/2.jpg
+image: /images/animationland.png
 image_alt: An orange on a blue background
 seo:
   title: Project Title 2
