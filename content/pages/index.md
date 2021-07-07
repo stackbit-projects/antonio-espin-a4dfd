@@ -15,7 +15,7 @@ sections:
         style: button
   - section_id: latest-projects
     type: section_portfolio
-    layout_style: mosaic
+    layout_style: tiles
     title: Mis proyectos
     subtitle: Estos son algunos proyectos en los que he trabajado
     projects_number: 6
