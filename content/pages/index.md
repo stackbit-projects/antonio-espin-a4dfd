@@ -18,7 +18,7 @@ sections:
     layout_style: mosaic
     title: Mis proyectos
     subtitle: Estos son algunos proyectos en los que he trabajado
-    projects_number: 7
+    projects_number: 4
     view_all_label: View All
     view_all_url: portfolio
   - section_id: services
