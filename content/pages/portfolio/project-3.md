@@ -39,4 +39,6 @@ Proyecto maquetado con HTML implementado con animaciones en CSS
 
 Puedes dar click en la opcion del icono "Menú" y podrás observar por medio de una animación como cambia la interfaz del reproductor.
 
+link proyecto: <https://antonioespin.github.io/reproductorMusica/>
+
 link repositorio: [https://github.com/AntonioEspin/reproductorMusica](https://github.com/AntonioEspin/reproductorMusicalink)
